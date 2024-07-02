@@ -1,0 +1,1 @@
+This is mainly used for scraping Yelp.com for getting information of Solar company.
