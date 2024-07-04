@@ -1,5 +1,11 @@
 This is mainly used for scraping Yelp.com for getting information of Solar company.
 
+<a href="#">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" width='154'/>
+  </div>
+</a>
+
 Result Example:
 
 | Number | Name          | Website           | Phone          | Address                    | Owner   | YouTube                                          | Instagram                                   | Twitter                                 | LinkedIn                                                          | Reddit | TikTok                                      | Mail                | Facebook                                   |
@@ -9,3 +15,5 @@ Result Example:
 | 3      | EmPower Solar | empower-solar.com | (516) 837-3459 |                            |         |                                                  | [empowersolar](https://www.instagram.com/empowersolar/) | [empowersolar](https://twitter.com/empowersolar) | [empower-solar-energy-solutions](https://www.linkedin.com/company/empower-solar-energy-solutions/) |        |                                            |                     | [empowersolar](https://www.facebook.com/empowersolar) |
 
   ....
+
+You can find more detailed information from [here](https://docs.google.com/document/d/11ZuGg3Z8ew2ihYI8ottEWB8MZt0h39QVVsZPRZwxOYE/edit?usp=sharing).
