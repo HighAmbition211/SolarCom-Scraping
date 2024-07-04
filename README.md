@@ -1,8 +1,8 @@
-This is mainly used for scraping Yelp.com for getting information of Solar company.
+This is mainly used for scraping [Yelp.com](https://www.yelp.com/) for getting information of Solar companies.
 
-<a href="#">
+<a href="https://www.yelp.com/">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" width='154'/>
+    <img src="https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/7ef71bf77a33/assets/img/brand/logo_desktop.svg" width='154'/>
   </div>
 </a>
 
