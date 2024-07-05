@@ -1,6 +1,6 @@
-This is mainly used for scraping [Yelp.com](https://www.yelp.com/) for getting information of Solar companies.
+This is mainly used for scraping [Yelp.com](https://www.yelp.com/search?find_desc=Solar&find_loc=New+York%2C+NY%2C+United+States/) for getting information of Solar companies.
 
-<a href="https://www.yelp.com/">
+<a href="https://www.yelp.com/search?find_desc=Solar&find_loc=New+York%2C+NY%2C+United+States">
   <div align="center">
     <img src="https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/7ef71bf77a33/assets/img/brand/logo_desktop.svg" width='154'/>
   </div>
