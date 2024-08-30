@@ -1,4 +1,4 @@
-This is mainly used for scraping [Yelp.com](https://www.yelp.com/search?find_desc=Solar&find_loc=New+York%2C+NY%2C+United+States/) for getting information of Solar companies.
+This is mainly used for scraping [Yelp.com](https://www.yelp.com/search?find_desc=Solar&find_loc=New+York%2C+NY%2C+United+States/) for getting information of Solar companies. (This repository is somewhat old. You can find a new version of yelp scraping from [here](https://github.com/BeautifulMoon211/Yelp-Scraping) )
 
 <a href="https://www.yelp.com/search?find_desc=Solar&find_loc=New+York%2C+NY%2C+United+States">
   <div align="center">
